@@ -1,0 +1,20 @@
+.product-card-container {
+  justify-self: center;
+  align-self: center;
+  text-align: center;
+}
+
+.product-card-img {
+  width: 100%
+}
+
+.product-card-info-container {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 40px;
+  justify-content: space-between;
+}
+
+.product-card-info {
+  
+}

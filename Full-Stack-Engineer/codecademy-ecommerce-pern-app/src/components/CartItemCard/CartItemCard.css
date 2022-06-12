@@ -1,0 +1,40 @@
+.cart-item-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  height: 20vh;
+  padding: 10px 0
+}
+
+.cart-item-details {
+  grid-column: 1 / 3;
+  height: 20vh;
+  display: flex;
+  padding: 0 10px;
+}
+
+.cart-item-interact {
+  grid-column: 3;
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-item-price {
+  grid-column: 4;
+}
+
+.cart-info-header {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 0 10px;
+}
+
+.cart-info-header .details {
+  grid-column: 1 / 3;
+}
+
+.cart-info-header .qty {
+  grid-column: 3;
+}
+.cart-info-header .price {
+  grid-column: 4;
+}
