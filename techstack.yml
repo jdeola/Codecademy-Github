@@ -1,0 +1,1168 @@
+repo_name: jdeola/Codecademy-Github
+report_id: 5b28de4c2c8ce2a22152bb4122758ba1
+repo_type: Public
+timestamp: '2023-11-11T23:23:38+00:00'
+requested_by: jdeola
+provider: github
+branch: master
+detected_tools_count: 83
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 3.7.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Material-UI
+  description: Material UI is a library of React UI components that implements Google's
+    Material Design.
+  website_url: https://github.com/mui/material-ui
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/redditminimal_app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/react_appointmentPlanner/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.0.5
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/redditminimal_app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: redux-thunk
+  description: Thunk middleware for Redux
+  website_url: https://github.com/gaearon/redux-thunk
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.12.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 16.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: InSpec
+  description: Open-source testing framework for infrastructure
+  website_url: https://www.inspec.io/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/6202/inspec-1.jpg
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 6.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: SuperTest
+  description: 'A library for testing node.js HTTP servers '
+  website_url: https://www.npmjs.com/package/supertest
+  version: 3.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.44.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/webpack.config.js
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: Full-Stack-Engineer/react_appointmentPlanner/yarn.lock
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 1.19.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Stripe
+  description: Payments for developers
+  website_url: https://stripe.com
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Formik
+  description: Build forms in React
+  website_url: https://jaredpalmer.com/formik/
+  version: 2.2.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Web Forms
+  image_url: https://img.stackshare.io/service/8846/preview.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source: Repo Metadata
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.16.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: yup
+  website_url: https://github.com/jquense/yup
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10756/339286.png
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: "@material-ui/core"
+  description: React components that implement Google's Material Design
+  package_url: https://www.npmjs.com/@material-ui/core
+  version: 4.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: "@material-ui/icons"
+  description: Material Design Svg Icons converted to Material-UI React components
+  package_url: https://www.npmjs.com/@material-ui/icons
+  version: 4.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16471/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.11.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/redditminimal_app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 11.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/redditminimal_app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.14.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.14.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.14.2
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: babel-preset-es2015
+  description: Babel preset for all es2015 plugins
+  package_url: https://www.npmjs.com/babel-preset-es2015
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15805/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: babel-preset-react
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/babel-preset-react
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15825/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: babel-preset-stage-2
+  description: Babel preset for stage 2 plugins
+  package_url: https://www.npmjs.com/babel-preset-stage-2
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15891/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: chai-as-promised
+  description: Extends Chai with assertions about promises
+  package_url: https://www.npmjs.com/chai-as-promised
+  version: 7.1.1
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15970/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: covert
+  description: Code coverage command con coverify
+  package_url: https://www.npmjs.com/covert
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18700/default_fc5b023c2170b00beeade822bdceeaf129047406.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: eslint-plugin-chai-friendly
+  description: This plugin makes 'no-unused-expressions' rule friendly towards chai
+    expect statements
+  package_url: https://www.npmjs.com/eslint-plugin-chai-friendly
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17721/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: express-session
+  description: Simple session middleware for Express
+  package_url: https://www.npmjs.com/express-session
+  version: 1.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16239/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: faker
+  description: Generate massive amounts of fake contextual data
+  package_url: https://www.npmjs.com/faker
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16327/default_1baba0e6ece19a38adfb211f686c83c781ff703a.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: http-errors
+  description: Create HTTP error objects
+  package_url: https://www.npmjs.com/http-errors
+  version: 1.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16925/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: http-proxy-middleware
+  description: The one-liner node.js proxy middleware for connect
+  package_url: https://www.npmjs.com/http-proxy-middleware
+  version: 0.19.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: iconv-lite
+  description: Convert character encodings in pure javascript
+  package_url: https://www.npmjs.com/iconv-lite
+  version: 0.4.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16350/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: immer
+  description: Create your next immutable state by mutating the current one
+  package_url: https://www.npmjs.com/immer
+  version: 8.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16937/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in immer
+    cve_id: CVE-2021-23436
+    cve_url: https://github.com/advisories/GHSA-33f9-j839-rf8h
+    detected_date: Sep 3
+    severity: critical
+    first_patched: 9.0.6
+  - name: Prototype Pollution in immer
+    cve_id: CVE-2021-3757
+    cve_url: https://github.com/advisories/GHSA-c36v-fmgq-m8hx
+    detected_date: Sep 8
+    severity: high
+    first_patched: 9.0.6
+- name: js-yaml
+  description: YAML 1.2 parser and serializer
+  package_url: https://www.npmjs.com/js-yaml
+  version: 3.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: mocha-junit-reporter
+  description: A JUnit reporter for mocha
+  package_url: https://www.npmjs.com/mocha-junit-reporter
+  version: 1.23.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16739/default_ee69dab268e6a52104564fd4259549f5b48a25d4.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+  vulnerabilities:
+  - name: 'Path Traversal: ''dir/../../filename'' in moment.locale'
+    cve_id: CVE-2022-24785
+    cve_url: https://github.com/advisories/GHSA-8hfj-j24r-96c4
+    detected_date: Apr 9
+    severity: high
+    first_patched: 2.29.2
+  - name: Moment.js vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-31129
+    cve_url: https://github.com/advisories/GHSA-wc69-rhjr-hc9g
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.29.4
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: Full-Stack-Engineer/bossMachine-redux/package-lock.json
+  detection_source: Full-Stack-Engineer/bossMachine-redux/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: nock
+  description: HTTP server mocking and expectations library for Node.js
+  package_url: https://www.npmjs.com/nock
+  version: 10.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16036/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: nyc
+  description: The Istanbul command line interface
+  package_url: https://www.npmjs.com/nyc
+  version: 14.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: passport
+  description: Simple, unobtrusive authentication for Node.js
+  package_url: https://www.npmjs.com/passport
+  version: 0.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16304/default_1baba0e6ece19a38adfb211f686c83c781ff703a.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+  vulnerabilities:
+  - name: Passport vulnerable to session regeneration when a users logs in or out
+    cve_id: CVE-2022-25896
+    cve_url: https://github.com/advisories/GHSA-v923-w3x8-wh69
+    detected_date: Jul 7
+    severity: moderate
+    first_patched: 0.6.0
+- name: passport-facebook
+  description: Facebook authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-facebook
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17972/default_5cd4226daecf35530a193ea8bd553edbe0c69ed1.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: passport-google-oauth
+  description: Google
+  package_url: https://www.npmjs.com/passport-google-oauth
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18454/default_6dcac5c4efc2d5715bff50b0427ad187013cea59.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: passport-local
+  description: Local username and password authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-local
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: pg-promise
+  description: PostgreSQL interface for Node.js
+  package_url: https://www.npmjs.com/pg-promise
+  version: 10.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18538/default_e75c3c83e4af96462c99ddf6aabdef371444ed62.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: qs
+  description: A querystring parser that supports nesting and arrays
+  package_url: https://www.npmjs.com/qs
+  version: 6.7.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/stripe/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 6.7.3
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/redditminimal_app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/redditminimal_app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: react-router
+  description: A complete routing library for React
+  package_url: https://www.npmjs.com/react-router
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16058/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/react_appointmentPlanner/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/react_appointmentPlanner/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/redditminimal_app/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: safe-publish-latest
+  description: Ensure that when you `npm publish`
+  package_url: https://www.npmjs.com/safe-publish-latest
+  version: 1.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17965/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: tape
+  description: Tap-producing test harness for node and browsers
+  package_url: https://www.npmjs.com/tape
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  detection_source: Full-Stack-Engineer/codecademy-ecommerce-pern-app/server/node_modules/qs/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: Full-Stack-Engineer/Flashcards_ReduxReact/package-lock.json
+  detection_source: Full-Stack-Engineer/Flashcards_ReduxReact/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2022-06-12 18:46:21.000000000 Z
