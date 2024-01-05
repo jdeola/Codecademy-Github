@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 jdeola/Codecademy-Github is built on the following main stack:
+
 - [Stripe](https://stripe.com) – Payment Services
 - [Coveralls](https://coveralls.io/) – Code Coverage
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -32,11 +33,13 @@ jdeola/Codecademy-Github is built on the following main stack:
 - [Formik](https://jaredpalmer.com/formik/) – Web Forms
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 jdeola/Codecademy-Github is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -67,14 +70,15 @@ jdeola/Codecademy-Github is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8846/preview.png' alt='Formik'/> [Formik](https://jaredpalmer.com/formik/) – Web Forms
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jdeola/Codecademy-Github](https://github.com/jdeola/Codecademy-Github)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|83<br/>Tools used|11/11/23 <br/>Report generated|
+|84<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -375,9 +379,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (50)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (51)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (50)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (51)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -431,8 +435,9 @@ Full tech stack [here](/techstack.md)
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v1.1.4|06/12/22|Jim Deola |MIT|N/A|
 |[tape](https://www.npmjs.com/tape)|v5.0.0|06/12/22|Jim Deola |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v3.4.0|06/12/22|Jim Deola |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v0.32.8|06/12/22|Jim Deola |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
